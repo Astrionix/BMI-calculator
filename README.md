@@ -2,6 +2,7 @@
 
 ## Overview
 This is an interactive Body Mass Index (BMI) calculator website with a beautiful UI, animations, and particle effects. The application calculates BMI using an external API and provides visual feedback on the BMI category.
+https://dexa2.netlify.app/
 
 ## Features
 - Calculate BMI using weight (kg) and height (m)
